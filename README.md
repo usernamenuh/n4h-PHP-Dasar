@@ -11,5 +11,6 @@ Repository ini berisi kumpulan file latihan untuk memahami dasar-dasar pemrogram
 - Manipulasi string
 - Konstanta
 - Studi kasus sederhana
+- DLL
 
 Setiap file di dalam folder ini merupakan contoh kode untuk topik tertentu. Silakan pelajari dan jalankan file-file tersebut untuk memperdalam pemahaman tentang PHP dasar
